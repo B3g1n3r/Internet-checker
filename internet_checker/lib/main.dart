@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:internet_checker/screens/InternetChecker.dart';
+import 'package:internet_checker/screens/internet_checker.dart';
 
 void main() {
   runApp(const MainApp());
@@ -11,7 +11,9 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: InternetChecker(),
+      home: Scaffold(
+        body: InternetChecker()
+      ),
     );
   }
 }
