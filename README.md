@@ -9,6 +9,13 @@ A Flutter app to check the internet connection status and celebrate when the int
   <img src="demo.gif" alt="App Demo" width="300">
 </p>
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+
+
 ## Features
 
 - Real-time internet connection status monitoring.
