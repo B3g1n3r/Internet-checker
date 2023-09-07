@@ -1,0 +1,22 @@
+name: internet_checker
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  confetti: ^0.7.0
+  connectivity_plus: ^4.0.2
+  flutter:
+    sdk: flutter
+  internet_connection_checker_plus: ^2.0.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
