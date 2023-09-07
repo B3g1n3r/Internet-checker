@@ -22,3 +22,6 @@ A Flutter app to check the internet connection status and celebrate when the int
 - The app will continuously monitor your internet connection status.
 - When the internet connection is restored, you'll see a celebratory confetti animation.
 - You can manually check the connection status by tapping the "Check Again" button.
+
+## Contributing
+Contributions are welcome! If you have ideas for improving the app or adding features, please open an issue or create a pull request. For major changes, please discuss the changes with the maintainers before proceeding.
