@@ -5,9 +5,6 @@
 
 A Flutter app to check the internet connection status and celebrate when the internet is back online. This app showcases the use of Flutter for mobile app development and includes features like real-time connectivity checks and confetti animation.
 
-![APP DEMO]((https://github.com/B3g1n3r/Internet-checker/blob/main/Screenshot_20230909-105749.jpg))
-
-
 ## Table of Contents
 
 1. [Features](#features)
